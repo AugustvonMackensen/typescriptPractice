@@ -1,0 +1,23 @@
+{
+  "name": "chap1",
+  "version": "1.0.0",
+  "description": "practice new skills",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AugustvonMackensen/typescriptPractice.git"
+  },
+  "keywords": [
+    "npm",
+    "publish"
+  ],
+  "author": "AugustvonMackensen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AugustvonMackensen/typescriptPractice/issues"
+  },
+  "homepage": "https://github.com/AugustvonMackensen/typescriptPractice#readme"
+}
